@@ -7,4 +7,4 @@ Factions Сборка
 ```sh
 git clone https://github.com/ISassemb/FactAss
 ```
-[Download Zip]:https://github.com/ISassemb/FactAss
+[Download Zip]:https://github.com/ISassemb/FactAss/archive/master.zip

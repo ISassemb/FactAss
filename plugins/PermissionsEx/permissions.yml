@@ -1,0 +1,9 @@
+groups:
+  default:
+    default: true
+    permissions:
+    - modifyworld.*
+users:
+  InterWall:
+    permissions:
+    - '*'

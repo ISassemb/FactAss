@@ -8,7 +8,7 @@
   "aliasesOuterMCoreMStore": [
     "mstore"
   ],
-  "usingRecipientChatEvent": true,
+  "usingRecipientChatEvent": false,
   "forcingOnePlayerNameCase": true,
   "permissionDeniedFormats": {
     "some.awesome.permission.node": "<b>You must be awesome to %s<b>.",
